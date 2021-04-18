@@ -4,11 +4,11 @@ The purpose of this exercise was to create a website to display UFO data collect
 ## 2.Result
 Multiple input fields were implemented to be able to filter the data by keys in the data set. All the data could be obtained through searching one or more keys. For example image 1 shows a search by date which will filter the data by date and refresh the webpage with only fields that match the inputed date. 
 
-![Filter By Date](date_filter.png)
+![Filter By Date](../date_filter.png)
 
 Image 2 shows that by adding additional inputs would narrow the return fields. 
 
-![Multi Filter Fields](multi_field.png)
+![Multi Filter Fields](../multi_field.png)
 
 To return to the original data set each field needed to be cleared maually. Once all fields are cleared an extra click was required to refresh the unfiltered data set.
 
